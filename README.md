@@ -1,4 +1,4 @@
-# Simulaciones_moduloRD
+# Simulaciones con el modulo de rodrop
 Aqui se encuentra la recopilacion de archivos con los parámetros obtenidos a partir del ajuste de curvas caractérística de un roddrop simuladas 
 para comprobar la eficacia del algoritmo de Lebemberg-Marquardt utilizado en el modulo Roddrop programado en LABVIEW.
 
